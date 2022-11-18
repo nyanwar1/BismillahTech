@@ -14,7 +14,7 @@ public class LoginTest2
         driver = new ChromeDriver();
         driver.get("https://www.target.com/");
         driver.manage().window().maximize();
-        System.out.println("Hello world!");
+        System.out.println("Hello world! Buffalo");
 
     }
 
